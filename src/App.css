@@ -5,7 +5,6 @@
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
-  pointer-events: none;
 }
 
 .App-header {
@@ -32,6 +31,6 @@
   }
 }
 
-.title{
+.title {
   font-style: italic;
 }
